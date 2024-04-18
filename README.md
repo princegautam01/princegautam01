@@ -42,9 +42,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/_prince.pvt?igsh=MWptaHJtamdvZG84Nw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="www.linkedin.com/in/prince-gautam-b6024b252" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -55,12 +52,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/princegautam01/princegautam01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">a full-stack Java developer with a passion for building robust and scalable applications.  I specialize in creating end-to-end solutions using Java and related technologies. My expertise includes backend development, front-end development, database management, and more.</p>
+<p align="left">A full-stack Java developer with a passion for building robust and scalable applications.  I specialize in creating end-to-end solutions using Java and related technologies. My expertise includes backend development, front-end development, database management, and more.</p>
 
 ###
